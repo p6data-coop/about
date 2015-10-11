@@ -4,7 +4,7 @@ Sparked by a call-out from Karin Christiansen, General Secretary of [The Co-oper
 
 This repository provides a space to share work in progress. Most importantly, [the issue tracker](https://github.com/p6data-coop/about/issues) is acting as our space for open information sharing in efforts to develop a common approach to co-operative data. 
 
-## New to GitHub?
+### New to GitHub?
 
 We're mainly using the discussion features in the issue tracker. You can think of it just like a forum. Sign-up for a free personal GitHub account, and then you can add your own new issues and comments to the discussions. 
 
