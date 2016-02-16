@@ -26,4 +26,5 @@ So far, we've:
 * Hosted a couple of calls of interested parties;
 * Agreed to start sharing existing open data on the sector;
 * Set up [p6data.coop](http://www.p6data.coop) as a public face for the project;
+* Held a [Hack Day](http://solidarityeconomics.org/2016/01/06/notes-from-coop-data-hackday/) at the Institute for Solidarity Economics in Oxford, December 2015. 
 * Published the [ISE Strategy for Data](http://solidarityeconomics.org/2016/02/16/ise-strategy-for-data/);
