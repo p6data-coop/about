@@ -28,3 +28,4 @@ So far, we've:
 * Set up [p6data.coop](http://www.p6data.coop) as a public face for the project;
 * Held a [Hack Day](http://solidarityeconomics.org/2016/01/06/notes-from-coop-data-hackday/) at the Institute for Solidarity Economics in Oxford, December 2015. 
 * Published the [ISE Strategy for Data](http://solidarityeconomics.org/2016/02/16/ise-strategy-for-data/);
+* Set up the [ise-linked-open-data](https://github.com/p6data-coop/ise-linked-open-data) repository for the Institute of Solidarity Economics' implementation of Linked Open Data on their own server.
